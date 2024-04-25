@@ -1,0 +1,137 @@
+[
+  {
+    "distance": 6.05,
+    "org_details": {
+      "icon_url": "https://nonprod-afpcom.s3.eu-west-2.amazonaws.com/organisation-icons/Function-Room.png",
+      "street_address": "Gatesheath Hall Cottage",
+      "website": "www.southsidegardens.bubblr.com",
+      "org_id": "bubblr_southsidegardens",
+      "latitude": 54.620666,
+      "postcode": "DL5 5PT",
+      "name": "Southside Gardens",
+      "description": "Parties and Functions",
+      "brand_name": "bubblr",
+      "longitude": -1.563883
+    }
+  },
+  {
+    "distance": 9.96,
+    "org_details": {
+      "icon_url": "https://nonprod-afpcom.s3.eu-west-2.amazonaws.com/organisation-icons/Function-Room.png",
+      "street_address": "25 Camellia Way",
+      "website": "www.pavillion.bubblr.com",
+      "org_id": "bubblr_pavilion",
+      "latitude": 54.589134,
+      "postcode": "TS19 9HG",
+      "name": "Pavilion",
+      "description": "Urban Party Venue",
+      "brand_name": "bubblr",
+      "longitude": -1.336834
+    }
+  },
+  {
+    "distance": 13.15,
+    "org_details": {
+      "icon_url": "https://nonprod-afpcom.s3.eu-west-2.amazonaws.com/organisation-icons/Function-Room.png",
+      "street_address": "Winander",
+      "website": "www.terraceinthepark.bubblr.com",
+      "org_id": "bubblr_terraceinthepark",
+      "latitude": 54.710805,
+      "postcode": "DL15 0BH",
+      "name": "Terrace In The Park",
+      "description": "Budget Function Hall",
+      "brand_name": "bubblr",
+      "longitude": -1.683173
+    }
+  },
+  {
+    "distance": 23.42,
+    "org_details": {
+      "icon_url": "https://nonprod-afpcom.s3.eu-west-2.amazonaws.com/organisation-icons/Function-Room.png",
+      "street_address": "14 Chatsworth Road",
+      "website": "www.belomansion.bubblr.com",
+      "org_id": "bubblr_belomansion",
+      "latitude": 54.871089,
+      "postcode": "DH2 1XJ",
+      "name": "Belo Mansion",
+      "description": "Modern Function Venue",
+      "brand_name": "bubblr",
+      "longitude": -1.603866
+    }
+  },
+  {
+    "distance": 15.57,
+    "org_details": {
+      "icon_url": "https://nonprod-afpcom.s3.eu-west-2.amazonaws.com/organisation-icons/Function-Room.png",
+      "street_address": "1 The Range",
+      "website": "www.thehangar.bubblr.com",
+      "org_id": "bubblr_thehangar",
+      "latitude": 54.659551,
+      "postcode": "TS25 3NS",
+      "name": "The Hangar",
+      "description": "Classy Party Hall",
+      "brand_name": "bubblr",
+      "longitude": -1.243949
+    }
+  },
+  {
+    "distance": 16.94,
+    "org_details": {
+      "icon_url": "https://nonprod-afpcom.s3.eu-west-2.amazonaws.com/organisation-icons/Function-Room.png",
+      "street_address": "17 St Bernards Close",
+      "website": "www.imperialhall.bubblr.com",
+      "org_id": "bubblr_imperialhall",
+      "latitude": 54.678665,
+      "postcode": "TS26 9BS",
+      "name": "Imperial Hall",
+      "description": "Small Function Hall",
+      "brand_name": "bubblr",
+      "longitude": -1.225232
+    }
+  },
+  {
+    "distance": 12.97,
+    "org_details": {
+      "icon_url": "https://nonprod-afpcom.s3.eu-west-2.amazonaws.com/organisation-icons/Function-Room.png",
+      "street_address": "2 Lancombe Lane",
+      "website": "www.lucecourt.bubblr.com",
+      "org_id": "bubblr_lucecourt",
+      "latitude": 54.603691,
+      "postcode": "TS23 4ED",
+      "name": "Luce Court",
+      "description": "Modern Bar For Functions",
+      "brand_name": "bubblr",
+      "longitude": -1.265836
+    }
+  },
+  {
+    "distance": 0.78,
+    "org_details": {
+      "icon_url": "https://nonprod-afpcom.s3.eu-west-2.amazonaws.com/organisation-icons/Function-Room.png",
+      "street_address": "50 Whittington Close",
+      "website": "www.theteapot.bubblr.com",
+      "org_id": "bubblr_theteapot",
+      "latitude": 54.534057,
+      "postcode": "DL1 2UQ",
+      "name": "The Teapot",
+      "description": "Family Function Venue",
+      "brand_name": "bubblr",
+      "longitude": -1.546153
+    }
+  },
+  {
+    "distance": 19.8,
+    "org_details": {
+      "icon_url": "https://nonprod-afpcom.s3.eu-west-2.amazonaws.com/organisation-icons/Function-Room.png",
+      "street_address": "13 Ash Grove",
+      "website": "www.titusciviccentre.bubblr.com",
+      "org_id": "bubblr_titusciviccentre",
+      "latitude": 54.786421,
+      "postcode": "SR8 3HB",
+      "name": "Titus Civic Centre",
+      "description": "Colourful Function Room",
+      "brand_name": "bubblr",
+      "longitude": -1.335026
+    }
+  }
+]
